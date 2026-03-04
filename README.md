@@ -8,10 +8,18 @@ JavaScript — Controle da lógica de alternância de tema
 
 📂**Estrutura do projeto**
 /
+
 ├── index.html
+
 ├── css/
+
 │   └── main.css
+
 ├── js/
+
 │   └── app.js
+
 │ 
+
 └── README.md
+
