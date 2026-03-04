@@ -13,11 +13,11 @@ JavaScript — Controle da lógica de alternância de tema
 
 ├── css/
 
-│     └── main.css
+│       └── main.css
 
 ├── js/
 
-│     └── app.js
+│       └── app.js
 
 │ 
 
